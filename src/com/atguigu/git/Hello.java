@@ -5,5 +5,7 @@ public class Hello {
 		System.out.println("This is a new file !");
 		System.out.println("This is a new file !");
 		System.out.println("This is a new file !");
+		System.out.println("This is a new file !");
+		System.out.println("This is a new file !");
 	}
 }
